@@ -3,13 +3,12 @@
 Классическая аркадная игра, где нужно разбивать кирпичи мячом.  
 Проект создан на Java с использованием JavaFX для изучения основ разработки игр.
 
-<img width="1920" height="1080" alt="Снимок экрана (8)" src="https://github.com/user-attachments/assets/e57036e8-aed8-4fb9-a324-214733eba7bc" />
-<img width="1920" height="1080" alt="Снимок экрана (9)" src="https://github.com/user-attachments/assets/728175f3-2599-4ff1-b843-7e7a2da7d2e3" />
-<img width="1920" height="1080" alt="Снимок экрана (10)" src="https://github.com/user-attachments/assets/54016c38-ea8c-4f3d-95e3-c38b53422e31" />
-<img width="1920" height="1080" alt="Снимок экрана (11)" src="https://github.com/user-attachments/assets/a2f84a94-8da5-4f67-aa53-5a4959b0a3e6" />
-<img width="1920" height="1080" alt="Снимок экрана (12)" src="https://github.com/user-attachments/assets/1ba60fb5-921a-4c9e-b834-878d42f3166b" />
-<img width="1920" height="1080" alt="Снимок экрана (13)" src="https://github.com/user-attachments/assets/639eb8ca-8bff-451d-a9c1-6d645c4fa0eb" />
-
+<img width="1920" height="1080" alt="Снимок экрана (8)" src="https://github.com/user-attachments/assets/ff35d9b0-2399-4e46-86ba-9f4dcccf965d" />
+<img width="1920" height="1080" alt="Снимок экрана (9)" src="https://github.com/user-attachments/assets/bed91fcc-f8bd-4ac2-83a9-ccb6ff2935a2" />
+<img width="1920" height="1080" alt="Снимок экрана (10)" src="https://github.com/user-attachments/assets/88c4fe39-8478-4861-a6a1-5a0999702d83" />
+<img width="1920" height="1080" alt="Снимок экрана (11)" src="https://github.com/user-attachments/assets/f9ab4757-f5d7-487a-9c81-ebfc92f4e8dc" />
+<img width="1920" height="1080" alt="Снимок экрана (12)" src="https://github.com/user-attachments/assets/b074598e-f974-42c9-8b81-141995d34739" />
+<img width="1920" height="1080" alt="Снимок экрана (13)" src="https://github.com/user-attachments/assets/3520be59-d7e1-4601-94a2-919ea2f6cd4d" />
 
 ---
 
